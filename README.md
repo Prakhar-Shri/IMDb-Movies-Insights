@@ -4,4 +4,6 @@ Often times, we open Netflix, Amazon Prime etc. and spend an hour choosing which
 
 Thankfully, we have websites like IMDb which give us a bird's eye view of how the movie actually is, in terms of popularity, cast, genre etc. for a particular demographic as well as in general. 
 
+I have also used Tableau to create visualizations of certain important parameters for better understanding of the data.
+
 Using a dataset with information of about a 100 movies, let us dwell into it and know more!
